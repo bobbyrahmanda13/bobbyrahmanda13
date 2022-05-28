@@ -3,8 +3,10 @@
 kerjaannya tidur dan gabut tidak ada kegiatan
 alias membosankan 
 
-sering baca2 teknologi dan selalu update karena gabutnya 
-hahahahhaha 
+sering baca2 soal teknologi dan selalu update karena gabutnya
+bukan programmer dan tidak ahli soal IT 
+
+hahahahhaha dunia ini membosankan bosku
 
 
 <!-- A little bit about me:
