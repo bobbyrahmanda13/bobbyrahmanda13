@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hai, Saya Bobby Rahmanda 👋
+
+kerjaannya tidur dan gabut tidak ada kegiatan
+alias membosankan 
+
+sering baca2 teknologi dan selalu update karena gabutnya 
+hahahahhaha 
+
+
+<!-- A little bit about me:
+* A [Vue.js](https://vuejs.org/) guy
+* Do [Go](https://golang.org/) and [Typescript](https://www.typescriptlang.org/) for backend
+* Likes [Julia](https://julialang.org/) because it's fun -->
+
+
+
 
 <!--
 **bobbyrahmanda13/bobbyrahmanda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
