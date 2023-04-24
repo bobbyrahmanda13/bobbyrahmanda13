@@ -1,7 +1,8 @@
 ### Hai, Saya Bobby Rahmanda 👋
 
 kerjaannya { nonton youtube, movie, drakor, anime, playing mobile legend walau epic abadi, tidur } = gabut;
-\t gabut = tidak ada kegiatan alias membosankan
+
+gabut = tidak ada kegiatan alias membosankan
 
 sering baca2 soal teknologi dan selalu update karena gabutnya
 bukan programmer dan tidak ahli soal IT 
