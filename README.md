@@ -1,12 +1,12 @@
 ### Hai, Saya Bobby Rahmanda 👋
 
-kerjaannya tidur dan gabut tidak ada kegiatan
-alias membosankan 
+kerjaannya { nonton youtube, movie, drakor, anime, playing mobile legend walau epic abadi, tidur } = gabut;
+gabut = tidak ada kegiatan alias membosankan
 
 sering baca2 soal teknologi dan selalu update karena gabutnya
 bukan programmer dan tidak ahli soal IT 
 
-hahahahhaha dunia ini membosankan bosku
+ :smile::smile::smile::smile::smile: dunia ini membosankan bosku
 
 
 <!-- A little bit about me:
