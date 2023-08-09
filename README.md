@@ -1,8 +1,10 @@
 ### Hai, Saya Bobby Rahmanda 👋
 
-kerjaannya { nonton youtube, movie, drakor, anime, playing mobile legend walau epic abadi, tidur } = gabut;
+let kegiatan = [ "nonton youtube", "movie", "drakor", "anime", "playing mobile legend walau epic abadi", "tidur", "jogging", "workout dirumah" ]
 
-gabut = tidak ada kegiatan alias membosankan
+const gabut = () => console.log("Membosankan")
+
+kegiatan = gabut() // result membosankan kwkwkwwkk
 
 sering baca2 soal teknologi dan selalu update karena gabutnya
 bukan programmer dan tidak ahli soal IT 
