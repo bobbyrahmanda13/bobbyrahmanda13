@@ -1,15 +1,5 @@
 ### Hai, Saya Bobby Rahmanda 👋
 
-let kegiatan = [ "nonton youtube", "movie", "drakor", "anime", "playing mobile legend walau epic abadi", "tidur", "jogging", "workout dirumah" ]
-
-const gabut = () => console.log("Membosankan")
-
-kegiatan = gabut() // result membosankan kwkwkwwkk
-
-sering baca2 soal teknologi dan selalu update karena gabutnya
-bukan programmer dan tidak ahli soal IT 
-
- :smile::smile::smile::smile::smile: dunia ini membosankan bosku
 
 
 <!-- A little bit about me:
