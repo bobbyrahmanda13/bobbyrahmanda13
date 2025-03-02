@@ -14,7 +14,7 @@
 			<br>
 			<br>
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
-			<img alt="Github" src="https://img.shields.io/badge/Github?style=flat&logo=Github">
+			<img alt="Github" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
 			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
 			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
 		</kbd>
