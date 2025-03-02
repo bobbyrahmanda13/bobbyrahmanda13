@@ -13,21 +13,36 @@
 
 <p>
 		<kbd>
-			<kbd>Language and Tools</kbd>
+			<kbd>Programming Language & Framework </kbd>
+			<br>
+			<br>
+			<img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust">
+			<img alt="Html" src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=Html5">
+			<img alt="Css" src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=Css3">
+			<img alt="Javascript" src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript">
+			<img alt="Typescript" src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=Typescript">
+			<img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+			<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
+		</kbd>
+	</p>
+<p>
+		<kbd>
+			<kbd>Software and Tools</kbd>
 			<br>
 			<br>
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
 			<img alt="Github" src="https://img.shields.io/badge/Github-05122A?style=flat&logo=Github">
 			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
 			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
-			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-05122A?style=flat&logo=ArchLinux">
+			<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
+			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)">
 			<img alt="Libreoffice" src="https://img.shields.io/badge/Libreoffice-05122A?style=flat&logo=Libreoffice">
 			<img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust">
 			<img alt="Html" src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=Html5">
 			<img alt="Css" src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=Css3">
 			<img alt="Javascript" src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript">
 			<img alt="Typescript" src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=Typescript">
-			<img alt="Vue" src="https://img.shields.io/badge/Vue-05122A?style=flat&logo=Vue3">
+			<img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
 			<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
 		</kbd>
 	</p>
