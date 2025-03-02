@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rahman_0000)
 
 </br>
-## Tech Stack
+<h2>Tech Uses</h2>
 
 <div>
 <p>
