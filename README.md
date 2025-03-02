@@ -10,7 +10,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/r4hm4n1309)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bobbyrahmanda1996@gmail.com)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:bobbyrahmanda1996@proton.me)
-[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](https://signal.me/#p/+6285274620281)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](https://signal.me/#p/bobbyrahmanda19.96)
 
 <h2>Tech Uses</h2>
 
