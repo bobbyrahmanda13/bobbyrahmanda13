@@ -37,13 +37,6 @@
 			<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
 			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)">
 			<img alt="Libreoffice" src="https://img.shields.io/badge/Libreoffice-05122A?style=flat&logo=Libreoffice">
-			<img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust">
-			<img alt="Html" src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=Html5">
-			<img alt="Css" src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=Css3">
-			<img alt="Javascript" src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript">
-			<img alt="Typescript" src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=Typescript">
-			<img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
-			<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
 		</kbd>
 	</p>
 </div>
