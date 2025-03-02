@@ -20,7 +20,7 @@
 			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-05122A?style=flat&logo=ArchLinux">
 			<img alt="Libreoffice" src="https://img.shields.io/badge/Libreoffice-05122A?style=flat&logo=Libreoffice">
 			<img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust">
-			<img alt="Html" src="https://img.shields.io/badge/Html-05122A?style=flat&logo=Html">
+			<img alt="Html" src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML">
 			<img alt="Css" src="https://img.shields.io/badge/Css-05122A?style=flat&logo=Css">
 		</kbd>
 	</p>
