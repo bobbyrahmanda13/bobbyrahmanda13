@@ -4,10 +4,10 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bobbyrahmanda13)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rahman_0000)
 
-</br>
 <h2>Tech Uses</h2>
 
 <div>
+
 <p>
 		<kbd>
 			<kbd>Software and Tools</kbd>
