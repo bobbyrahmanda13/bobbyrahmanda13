@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://bobbyrahmanda13.netlify.app)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bobbyrahmanda13)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white))](https://t.me/Rahman_0000)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Rahman_0000)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/r4hm4n1309)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bobbyrahmanda1996@gmail.com)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:bobbyrahmanda1996@proton.me)
