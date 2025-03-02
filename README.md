@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Bobby Rahmanda.
 
+<p>I am a beginner in programming and is currently still learning and improved for the better. </p>
+
 ## Connect to me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://bobbyrahmanda13.netlify.app)
