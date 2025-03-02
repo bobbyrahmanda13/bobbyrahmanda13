@@ -10,7 +10,7 @@
 
 <p>
 		<kbd>
-			<kbd>Software and Tools</kbd>
+			<kbd>Language and Tools</kbd>
 			<br>
 			<br>
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
@@ -19,6 +19,9 @@
 			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
 			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-05122A?style=flat&logo=ArchLinux">
 			<img alt="Libreoffice" src="https://img.shields.io/badge/Libreoffice-05122A?style=flat&logo=Libreoffice">
+			<img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust">
+			<img alt="Html" src="https://img.shields.io/badge/Html-05122A?style=flat&logo=Html">
+			<img alt="Css" src="https://img.shields.io/badge/Css-05122A?style=flat&logo=Css">
 		</kbd>
 	</p>
 </div>
