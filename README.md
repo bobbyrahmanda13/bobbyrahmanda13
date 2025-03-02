@@ -17,13 +17,16 @@
 			<kbd>Programming Language & Framework </kbd>
 			<br>
 			<br>
-			<img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust">
-			<img alt="Html" src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=Html5">
-			<img alt="Css" src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=Css3">
-			<img alt="Javascript" src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript">
-			<img alt="Typescript" src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=Typescript">
+			<img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white">
+			<img alt="Html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+			<img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+			<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+			<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 			<img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
 			<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
+			<img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
+			<img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
+			<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
 		</kbd>
 	</p>
 <p>
