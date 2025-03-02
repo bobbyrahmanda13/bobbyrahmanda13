@@ -3,6 +3,8 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://bobbyrahmanda13.netlify.app)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bobbyrahmanda13)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rahman_0000)
+[![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:bobbyrahmanda1996@gmail.com)
+[![Protonmail](https://img.shields.io/badge/-Protonmail-blue?style=flat&logo=Protonmail&logoColor=white)](mailto:bobbyrahmanda1996@proton.me)
 
 <h2>Tech Uses</h2>
 
