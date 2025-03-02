@@ -30,7 +30,7 @@
 			<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
 			<img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
 			<img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
-			<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
+			<img alt="Bash" src="https://img.shields.io/badge/Bash-%23000000?logo=gnubash&logoColor=fff">
 		</kbd>
 	</p>
 
