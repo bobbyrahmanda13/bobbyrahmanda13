@@ -17,6 +17,7 @@
 			<img alt="Github" src="https://img.shields.io/badge/Github-05122A?style=flat&logo=Github">
 			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
 			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
+			<img alt="Arch Linux" src="https://img.shields.io/badge/ArchLinux-05122A?style=flat&logo=ArchLinux">
 		</kbd>
 	</p>
 </div>
