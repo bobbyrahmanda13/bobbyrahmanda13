@@ -31,7 +31,6 @@
 			<img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
 			<img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
 			<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
-			<img alt="Batfile" src="https://img.shields.io/badge/batfile-4EAA25?logo=batfile&logoColor=fff">
 		</kbd>
 	</p>
 
