@@ -31,14 +31,25 @@
 			<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
 		</kbd>
 	</p>
+
+<p>
+		<kbd>
+			<kbd>Static Site & Cloud System</kbd>
+			<br>
+			<br>
+			<img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">
+			<img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
+			<img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
+		</kbd>
+	</p>
 <p>
 		<kbd>
 			<kbd>Software and Tools</kbd>
 			<br>
 			<br>
-			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
-			<img alt="Github" src="https://img.shields.io/badge/Github-05122A?style=flat&logo=Github">
-			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
+			<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+			<img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff">
 			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
 			<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
 			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)">
