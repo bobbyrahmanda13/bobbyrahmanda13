@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Bobby Rahmanda.
 
+## Connect to me
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://bobbyrahmanda13.netlify.app)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bobbyrahmanda13)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white))](https://t.me/Rahman_0000)
