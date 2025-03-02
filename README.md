@@ -25,6 +25,10 @@
 			<img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust">
 			<img alt="Html" src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=Html5">
 			<img alt="Css" src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=Css3">
+			<img alt="Javascript" src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript">
+			<img alt="Typescript" src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=Typescript">
+			<img alt="Vue" src="https://img.shields.io/badge/Vue-05122A?style=flat&logo=Vue">
+			<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-05122A?style=flat&logo=Nuxt">
 		</kbd>
 	</p>
 </div>
