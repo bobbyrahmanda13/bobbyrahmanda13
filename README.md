@@ -54,7 +54,7 @@
 			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff">
 			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
 			<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
-			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)">
+			<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)">
 			<img alt="Libreoffice" src="https://img.shields.io/badge/Libreoffice-05122A?style=flat&logo=Libreoffice">
 		</kbd>
 	</p>
